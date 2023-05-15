@@ -1,0 +1,2 @@
+oila= {"dadam":"murodjon","oyim":"zilola","sinim":"mumina","ukam":"muhammad","men":"muslima"}
+print(f'\tdadamning ismi {oila["dadam"]}oyimning ismi {oila["oyim"]}\n sinimning ismi {oila["sinim"]} ukamning ismi {oila["ukam"]}\n mening ismim {oila["men"]}\n biz baxtli oiamiz')
